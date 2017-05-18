@@ -1,0 +1,9 @@
+# view res/layout/cmbkeyboard.xml #generated:104
+-keep class android.inputmethodservice.KeyboardView { <init>(...); }
+
+# view res/layout/activity_pingpp_payment.xml #generated:29
+-keep class com.pingplusplus.android.WebViewEx { <init>(...); }
+
+# view res/layout/pingpp_activity_pay.xml #generated:8
+-keep class com.pingplusplus.libone.ProgressWheel { <init>(...); }
+
